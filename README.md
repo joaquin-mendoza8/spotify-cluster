@@ -1,7 +1,7 @@
 ## Instructions to Run
 
 ```bash
-git clone <ENTER CLONE STRING>
+git clone <ENTER_CLONE_STRING>
 
 cd spotify-cluster
 
